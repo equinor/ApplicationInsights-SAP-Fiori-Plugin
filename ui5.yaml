@@ -34,6 +34,6 @@ builder:
   - name: ui5-task-zipper
     afterTask: generateResourcesJson
     configuration:
-      archiveName: "ZCAAFP_FLP_PLUGIN"
+      archiveName: "ZCAAFPAZPLUGIN"
       includeDependencies: true
       

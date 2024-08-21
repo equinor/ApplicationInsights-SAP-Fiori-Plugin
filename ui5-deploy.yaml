@@ -17,7 +17,7 @@ builder:
           destination: d09-290-http-pp
           url: http://sapd09.cloud:443
         app:
-          name: ZCAAFP_FLP_PLUGIN
+          name: ZCAAFPAZPLUGIN
           description: A fiori plugin to integrate with Azure App Insights
           package: ZCAAFP_AZURE_FLP_PLUGIN
           transport: "D09K919892"
