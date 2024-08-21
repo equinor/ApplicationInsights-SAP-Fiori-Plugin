@@ -37,7 +37,7 @@ var that;
     },
     cfg: { // Application Insights Configuration
         //https://learn.microsoft.com/azure/azure-monitor/app/sdk-connection-string?tabs=net#find-your-connection-string
-        connectionString: "YOURCONNECTIONSTRING",
+        connectionString: "InstrumentationKey=ea5bc906-6fa3-42aa-91dd-84621b519b3e;IngestionEndpoint=https://northeurope-2.in.applicationinsights.azure.com/;LiveEndpoint=https://northeurope.livediagnostics.monitor.azure.com/;ApplicationId=3983bd48-89cc-40f2-9c27-b2186912f54f",
         //overridePageViewDuration: true,
         //Automatically track route changes in Single Page Applications (SPA). If true, each route change will send a new Pageview to Application Insights. Hash route changes changes (example.com/foo#bar) are also recorded as new page views
         enableAutoRouteTracking: false

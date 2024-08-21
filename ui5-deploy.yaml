@@ -14,10 +14,10 @@ builder:
       afterTask: generateCachebusterInfo
       configuration:
         target:
-          destination: PM4
-          url: https://api.integration-ninjas.co.in
+          destination: d09-290-http-pp
+          url: http://sapd09.cloud:443
         app:
-          name: ZAZUREFLPPLUGIN
+          name: ZCAAFP_FLP_PLUGIN
           description: A fiori plugin to integrate with Azure App Insights
-          package: $tmp
-          transport: ""
+          package: ZCAAFP_AZURE_FLP_PLUGIN
+          transport: "D09K919892"
